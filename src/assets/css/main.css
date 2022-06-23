@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-family-lato {
+    font-family: 'Lato', sans-serif;
+}
+
+.bg-dark-purple {
+    background-color: #13152D;
+}
+
+.shadow-skyblue {
+    box-shadow: 10px 10px 49px 1px rgba(14,165,233,0.70);
+}
+
+.shadow-promo {
+    box-shadow: 0 6px 20px rgb(17 26 104 / 10%);
+}
